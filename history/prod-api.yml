@@ -1,7 +1,7 @@
-url: api.factiverse.ai/v1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T08:23:05.659Z
+url: api.factiverse.ai
+status: up
+code: 200
+responseTime: 2
+lastUpdated: 2024-09-05T08:23:47.305Z
 startTime: 2024-09-05T08:20:43.604Z
 generator: Upptime <https://github.com/upptime/upptime>
