@@ -1,8 +1,8 @@
 [
   {
     "name": "Prod API",
-    "url": "https://api.factiverse.ai/v1",
-    "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
+    "url": "api.factiverse.ai/v1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-api",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-09-05": 2
+      "2024-09-05": 3
     }
   }
 ]
