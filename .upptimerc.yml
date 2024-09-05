@@ -8,6 +8,7 @@ sites:
     url: api.factiverse.ai
     assignees:
       - tobiastykvart
+      - vinaysetty
     
 workflowSchedule:
   graphs: "*/10 * * * *"
