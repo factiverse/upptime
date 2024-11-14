@@ -11,7 +11,7 @@ sites:
       - vinaysetty
   - name: DNB Pilot (azure.factiverse.ai)
     check: "tcp-ping"
-    url: azure.factiverse.ai
+    url: https://azure.factiverse.ai/v1/docs
     assignees:
       - tobiastykvart
       - vinaysetty
