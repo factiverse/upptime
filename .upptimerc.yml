@@ -10,7 +10,6 @@ sites:
       - tobiastykvart
       - vinaysetty
   - name: DNB Pilot (azure.factiverse.ai)
-    check: "tcp-ping"
     url: https://azure.factiverse.ai/v1/docs
     assignees:
       - tobiastykvart
