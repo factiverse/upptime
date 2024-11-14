@@ -19,22 +19,22 @@
   },
   {
     "name": "DNB Pilot (azure.factiverse.ai)",
-    "url": "azure.factiverse.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://azure.factiverse.ai/v1/docs",
+    "icon": "https://icons.duckduckgo.com/ip3/azure.factiverse.ai.ico",
     "slug": "dnb-pilot-azure-factiverse-ai",
     "status": "down",
-    "uptime": "6.79%",
-    "uptimeDay": "6.79%",
-    "uptimeWeek": "6.79%",
-    "uptimeMonth": "6.79%",
-    "uptimeYear": "6.79%",
+    "uptime": "5.44%",
+    "uptimeDay": "5.44%",
+    "uptimeWeek": "5.44%",
+    "uptimeMonth": "5.44%",
+    "uptimeYear": "5.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 17
+      "2024-11-14": 22
     }
   }
 ]
