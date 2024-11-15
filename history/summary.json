@@ -22,19 +22,19 @@
     "url": "https://azure.factiverse.ai/v1/docs",
     "icon": "https://icons.duckduckgo.com/ip3/azure.factiverse.ai.ico",
     "slug": "dnb-pilot-azure-factiverse-ai",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
+    "status": "up",
+    "uptime": "97.48%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 695,
-    "timeDay": 530,
+    "timeDay": 531,
     "timeWeek": 695,
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-11-15": 0,
+      "2024-11-15": 12,
       "2024-11-14": 32
     }
   }
