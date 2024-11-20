@@ -1,7 +1,7 @@
 url: https://azure.factiverse.ai/v1/docs
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-20T02:18:48.488Z
+code: 502
+responseTime: 409
+lastUpdated: 2024-11-20T02:46:21.741Z
 startTime: 2024-11-14T10:26:42.089Z
 generator: Upptime <https://github.com/upptime/upptime>
