@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ollama.factiverse.ai.ico",
     "slug": "ollama",
     "status": "down",
-    "uptime": "62.62%",
-    "uptimeDay": "62.62%",
-    "uptimeWeek": "62.62%",
-    "uptimeMonth": "62.62%",
-    "uptimeYear": "62.62%",
-    "time": 672,
-    "timeDay": 672,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "uptime": "45.96%",
+    "uptimeDay": "45.96%",
+    "uptimeWeek": "45.96%",
+    "uptimeMonth": "45.96%",
+    "uptimeYear": "45.96%",
+    "time": 568,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2024-11-20": 9
+      "2024-11-20": 18
     }
   }
 ]
