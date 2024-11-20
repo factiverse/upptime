@@ -14,15 +14,19 @@ sites:
     assignees:
       - tobiastykvart
       - vinaysetty
+  - name: Ollama
+    url: https://ollama.factiverse.ai
+    assignees:
+      - vinaysetty
     
 workflowSchedule:
-  graphs: "*/10 * * * *"
-  responseTime: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updateTemplate: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
+  graphs: "*/1 * * * *"
+  responseTime: "*/1 * * * *"
+  staticSite: "*/1 * * * *"
+  summary: "*/1 * * * *"
+  updateTemplate: "*/1 * * * *"
+  updates: "*/1 * * * *"
+  uptime: "*/1 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
