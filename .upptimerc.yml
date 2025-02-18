@@ -9,6 +9,7 @@ sites:
     assignees:
       - tobiastykvart
       - vinaysetty
+      - bohdan-meshcheriakov-factiverse
   - name: DNB Pilot (azure.factiverse.ai)
     url: https://azure.factiverse.ai/v1/docs
     assignees:
