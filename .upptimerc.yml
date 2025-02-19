@@ -18,6 +18,7 @@ sites:
   - name: Ollama
     url: https://ollama.factiverse.ai
     assignees:
+      - bohdan-meshcheriakov-factiverse
       - vinaysetty
     
 workflowSchedule:
