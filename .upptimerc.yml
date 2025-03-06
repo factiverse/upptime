@@ -14,10 +14,16 @@ sites:
     assignees:
       - tobiastykvart
       - vinaysetty
+      - bohdan-meshcheriakov-factiverse
   - name: Ollama
     url: https://ollama.factiverse.ai
     assignees:
       - bohdan-meshcheriakov-factiverse
+      - vinaysetty
+  - name: Factisearch
+    url: https://es.factiverse.ai:9200
+    assignees:
+      - eemrds
       - vinaysetty
     
 workflowSchedule:
