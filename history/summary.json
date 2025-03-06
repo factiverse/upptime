@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 91,
+    "timeDay": 93,
     "timeWeek": 16,
     "timeMonth": 6,
     "timeYear": 4,
@@ -29,8 +29,8 @@
     "uptimeMonth": "97.30%",
     "uptimeYear": "98.96%",
     "time": 520,
-    "timeDay": 497,
-    "timeWeek": 524,
+    "timeDay": 498,
+    "timeWeek": 525,
     "timeMonth": 515,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 521,
-    "timeDay": 612,
+    "timeDay": 610,
     "timeWeek": 638,
     "timeMonth": 567,
     "timeYear": 521,
@@ -76,18 +76,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/es.factiverse.ai.ico",
     "slug": "factisearch",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 335
+      "2025-03-06": 344
     }
   }
 ]
