@@ -21,6 +21,7 @@ sites:
       - bohdan-meshcheriakov-factiverse
       - vinaysetty
   - name: Factisearch
+    check: "tcp-ping"
     url: https://es.factiverse.ai:9200
     assignees:
       - eemrds
