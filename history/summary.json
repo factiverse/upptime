@@ -1,8 +1,8 @@
 [
   {
     "name": "Prod API (api.factiverse.ai)",
-    "url": "api.factiverse.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://api.factiverse.ai/v1/docs",
+    "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "prod-api-api-factiverse-ai",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3,
-    "timeDay": 3,
-    "timeWeek": 3,
-    "timeMonth": 3,
+    "timeDay": 9,
+    "timeWeek": 4,
+    "timeMonth": 4,
     "timeYear": 3,
     "dailyMinutesDown": {}
   },
@@ -59,7 +59,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 521,
-    "timeDay": 622,
+    "timeDay": 621,
     "timeWeek": 637,
     "timeMonth": 566,
     "timeYear": 521,
@@ -68,6 +68,26 @@
       "2025-02-19": 15,
       "2025-02-01": 35,
       "2024-11-20": 22
+    }
+  },
+  {
+    "name": "Factisearch",
+    "url": "https://es.factiverse.ai:9200",
+    "icon": "https://icons.duckduckgo.com/ip3/es.factiverse.ai.ico",
+    "slug": "factisearch",
+    "status": "down",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-03-06": 5
     }
   }
 ]
