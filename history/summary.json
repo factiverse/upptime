@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 259,
-    "timeWeek": 47,
+    "timeDay": 261,
+    "timeWeek": 48,
     "timeMonth": 14,
     "timeYear": 6,
     "dailyMinutesDown": {}
@@ -52,19 +52,19 @@
     "url": "https://ollama.factiverse.ai",
     "icon": "https://icons.duckduckgo.com/ip3/ollama.factiverse.ai.ico",
     "slug": "ollama",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.82%",
     "time": 522,
     "timeDay": 611,
     "timeWeek": 640,
     "timeMonth": 570,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-03-07": 170,
+      "2025-03-07": 179,
       "2025-03-05": 24,
       "2025-02-19": 15,
       "2025-02-01": 35,
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 1004,
+      "2025-03-07": 1014,
       "2025-03-06": 611
     }
   }
