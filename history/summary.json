@@ -24,7 +24,7 @@
     "slug": "dnb-pilot-azure-factiverse-ai",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "91.50%",
+    "uptimeDay": "92.62%",
     "uptimeWeek": "95.68%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "98.74%",
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 1202,
+      "2025-03-10": 1242,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
