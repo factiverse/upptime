@@ -57,8 +57,8 @@
     "slug": "ollama",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "49.45%",
-    "uptimeWeek": "88.35%",
+    "uptimeDay": "49.24%",
+    "uptimeWeek": "88.32%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.22%",
     "time": 525,
@@ -67,7 +67,7 @@
     "timeMonth": 585,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-03-11": 525,
+      "2025-03-11": 528,
       "2025-03-10": 288,
       "2025-03-09": 27,
       "2025-03-08": 126,
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 837,
+      "2025-03-11": 839,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
