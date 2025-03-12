@@ -1,7 +1,7 @@
 url: https://ollama.factiverse.ai
-status: down
-code: 502
-responseTime: 591
-lastUpdated: 2025-03-12T20:52:59.393Z
+status: up
+code: 200
+responseTime: 528
+lastUpdated: 2025-03-12T21:14:45.773Z
 startTime: 2024-11-20T10:12:32.613Z
 generator: Upptime <https://github.com/upptime/upptime>
