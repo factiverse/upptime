@@ -6,17 +6,17 @@
     "slug": "prod-api-api-factiverse-ai",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "70.75%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "70.31%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.76%",
     "time": 27,
-    "timeDay": 227,
+    "timeDay": 228,
     "timeWeek": 253,
     "timeMonth": 115,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2025-03-17": 421
+      "2025-03-17": 428
     }
   },
   {
@@ -67,7 +67,7 @@
     "uptimeMonth": "96.25%",
     "uptimeYear": "98.99%",
     "time": 528,
-    "timeDay": 605,
+    "timeDay": 604,
     "timeWeek": 591,
     "timeMonth": 608,
     "timeYear": 528,
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 1061,
+      "2025-03-17": 1067,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
