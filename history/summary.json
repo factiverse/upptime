@@ -6,17 +6,17 @@
     "slug": "prod-api-api-factiverse-ai",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "86.78%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.89%",
     "time": 26,
-    "timeDay": 233,
+    "timeDay": 229,
     "timeWeek": 253,
-    "timeMonth": 113,
+    "timeMonth": 114,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2025-03-17": 190
+      "2025-03-17": 197
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "96.21%",
     "uptimeYear": "98.77%",
     "time": 518,
-    "timeDay": 482,
-    "timeWeek": 491,
+    "timeDay": 481,
+    "timeWeek": 490,
     "timeMonth": 504,
     "timeYear": 518,
     "dailyMinutesDown": {
@@ -63,12 +63,12 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.24%",
+    "uptimeWeek": "88.27%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "98.99%",
     "time": 528,
-    "timeDay": 597,
-    "timeWeek": 591,
+    "timeDay": 596,
+    "timeWeek": 590,
     "timeMonth": 607,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 830,
+      "2025-03-17": 837,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
