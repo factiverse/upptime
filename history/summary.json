@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "prod-api-api-factiverse-ai",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.92%",
     "time": 26,
     "timeDay": 231,
     "timeWeek": 252,
     "timeMonth": 113,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2025-03-17": 124
+      "2025-03-17": 141
     }
   },
   {
@@ -63,7 +63,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.72%",
+    "uptimeWeek": "87.89%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "98.99%",
     "time": 528,
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 764,
+      "2025-03-17": 781,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
