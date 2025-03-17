@@ -6,16 +6,18 @@
     "slug": "prod-api-api-factiverse-ai",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 26,
     "timeDay": 229,
     "timeWeek": 271,
     "timeMonth": 112,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 6
+    }
   },
   {
     "name": "DNB Pilot (azure.factiverse.ai)",
@@ -25,7 +27,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "98.77%",
     "time": 518,
@@ -65,8 +67,8 @@
     "uptimeMonth": "96.25%",
     "uptimeYear": "98.99%",
     "time": 528,
-    "timeDay": 592,
-    "timeWeek": 590,
+    "timeDay": 594,
+    "timeWeek": 589,
     "timeMonth": 606,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -100,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 612,
+      "2025-03-17": 645,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
