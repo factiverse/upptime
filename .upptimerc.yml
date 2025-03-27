@@ -12,12 +12,42 @@ sites:
       - "Content-Type: application/json"
     body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
     maxResponseTime: 100000
-  - name: Prod API (api.factiverse.ai)
-    url: https://api.factiverse.ai/v1/docs
-    assignees:
-      - tobiastykvart
-      - vinaysetty
-      - bohdan-meshcheriakov-factiverse
+  - name: POST to /claim_detection
+    url: https://api.factiverse.ai/v1/claim_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
+    maxResponseTime: 100000
+  - name: POST to /fact_check
+    url: https://api.factiverse.ai/v1/fact_check
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"claims": ["The earth is flat."], "domainsToSearch": ["news"], "lang": "en", "text": "The director of Afghanistans media and information centre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed by gunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "url": "https://www.bbc.com/news/world-asia-58112981", "logging": false}'
+    maxResponseTime: 100000
+  - name: POST to /search
+    url: https://api.factiverse.ai/v1/search
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "query": "The earth is not flat.", "searchEngine": ["google"], "logging": false}'
+    maxResponseTime: 100000
+  - name: POST to /feedback
+    url: https://api.factiverse.ai/v1/feedback
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
+    maxResponseTime: 100000
   - name: DNB Pilot (azure.factiverse.ai)
     url: https://azure.factiverse.ai/v1/docs
     assignees:
@@ -35,15 +65,6 @@ sites:
     assignees:
       - eemrds
       - vinaysetty
-    
-workflowSchedule:
-  graphs: "*/10 * * * *"
-  responseTime: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updateTemplate: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
