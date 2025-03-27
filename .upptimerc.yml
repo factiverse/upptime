@@ -13,6 +13,7 @@ sites:
     body: >-
       {
         "claim": "The earth is flat.",
+        "logging": false,
         "lang": "en",
         "search_engines": [
           "Bing Search",
@@ -40,7 +41,13 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
+    body: >-
+      {
+        "lang": "",
+        "logging": false,
+        "text": "I think we've seen a deterioration of values. US has the highest number of COVID infections ever.",
+        "claimScoreThreshold": 0.9
+      }
     maxResponseTime: 100000
   - name: POST to /fact_check
     url: https://api.factiverse.ai/v1/fact_check
@@ -49,8 +56,24 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"claims": ["The earth is flat."], "domainsToSearch": ["news"], "lang": "en", "text": "The director of Afghanistans media and information centre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed by gunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "url": "https://www.bbc.com/news/world-asia-58112981", "logging": false}'
-    maxResponseTime: 100000
+    body: >-
+      {
+        "logging": false,
+        "lang": "",
+        "collection": "test",
+        "claims": [
+          "The earth is flat."
+        ],
+        "url": "https://www.bbc.com/news/world-asia-58112981",
+        "text": "The director of Afghanistan's media and informationcentre has been assassinated by Taliban militants inthe capital, Kabul. Dawa Khan Menapal was killed bygunmen on Darul Aman Road in the capital, reports said. I am not worth checking.",
+        "domainsToSearch": [
+          "news",
+          "encyclopedia",
+          "research",
+          "social_media"
+        ]
+      }
+    maxResponseTime: 200000
   - name: POST to /search
     url: https://api.factiverse.ai/v1/search
     method: POST
@@ -58,7 +81,29 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"lang": "en", "query": "The earth is not flat.", "searchEngine": ["google"], "logging": false}'
+    body: >-
+      {
+        "claim": "The earth is flat.",
+        "lang": "en",
+        "logging": false,
+        "search_engines": [
+          "Bing Search",
+          "Google",
+          "Google Claim",
+          "Semantic Scholar",
+          "Wikipedia",
+          "ElasticSearch",
+          "You.com"
+        ],
+        "preferred_sites": [
+          "ft.com",
+          "bbc.com",
+          "wsj.com",
+          "cbsnews.com",
+          "channel4.com/news",
+          "channelnewsasia.com"
+        ]
+      }
     maxResponseTime: 100000
   - name: POST to /feedback
     url: https://api.factiverse.ai/v1/feedback
@@ -67,7 +112,28 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
+    body: >-
+      {
+        "feedbackType": "UITest",
+        "payload": {
+          "claim": "Global warming is caused by greenhouse ...",
+          "email": "email@example.no",
+          "userAgrees": true,
+          "lang": "en",
+          "evidence": {
+            "title": "Greenhouse gas emissions by Australia",
+            "url": "https://en.wikipedia.org/?curid=20802345",
+            "domain": "https://en.wikipedia.org/",
+            "snippet": "Greenhouse gas emissions by Australia ...",
+            "softmaxScore": [
+              0.1234,
+              0.4321
+            ],
+            "id": "a1483395-7765-4ea5-9fe3-1qqdd23a147c"
+          },
+          "logging": false,
+        }
+      }
     maxResponseTime: 100000
   - name: DNB Pilot (azure.factiverse.ai)
     url: https://azure.factiverse.ai/v1/docs
