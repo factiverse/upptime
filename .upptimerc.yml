@@ -10,7 +10,28 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
+    body: >-
+      {
+        "claim": "The earth is flat.",
+        "lang": "en",
+        "search_engines": [
+          "Bing Search",
+          "Google",
+          "Google Claim",
+          "Semantic Scholar",
+          "Wikipedia",
+          "ElasticSearch",
+          "You.com"
+        ],
+        "preferred_sites": [
+          "ft.com",
+          "bbc.com",
+          "wsj.com",
+          "cbsnews.com",
+          "channel4.com/news",
+          "channelnewsasia.com"
+        ]
+      }
     maxResponseTime: 100000
   - name: POST to /claim_detection
     url: https://api.factiverse.ai/v1/claim_detection
