@@ -115,6 +115,7 @@ sites:
     body: >-
       {
         "feedbackType": "UITest",
+        "logging": false,
         "payload": {
           "claim": "Global warming is caused by greenhouse ...",
           "email": "email@example.no",
@@ -130,9 +131,44 @@ sites:
               0.4321
             ],
             "id": "a1483395-7765-4ea5-9fe3-1qqdd23a147c"
-          },
-          "logging": false,
+          }
         }
+      }
+    maxResponseTime: 100000
+  - name: POST to /claim_search
+    url: https://api.factiverse.ai/v1/claim_search
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: >-
+      {
+        "logging": false,
+        "lang": "",
+        "query": "The earth is not flat.",
+        "fromDate": "2023-12-01",
+        "toDate": "2024-01-01",
+        "reverseSortPubDate": true,
+        "size": 10,
+        "searchEngine": [
+          "fact_search_elasticsearch"
+        ]
+      }
+    maxResponseTime: 100000
+  - name: POST to /generate
+    url: https://api.factiverse.ai/v1/generate
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: >-
+      {
+        "logging": false,
+        "lang": "",
+        "text": "Are you an AI?",
+        "prompt": "Are you an AI?"
       }
     maxResponseTime: 100000
   - name: DNB Pilot (azure.factiverse.ai)
