@@ -34,6 +34,10 @@ sites:
         ]
       }
     maxResponseTime: 100000
+    assignees:
+      - tobiastykvart
+      - vinaysetty
+      - bohdan-meshcheriakov-factiverse
   - name: POST to /claim_detection
     url: https://api.factiverse.ai/v1/claim_detection
     method: POST
@@ -49,6 +53,10 @@ sites:
         "claimScoreThreshold": 0.9
       }
     maxResponseTime: 100000
+    assignees:
+      - tobiastykvart
+      - vinaysetty
+      - bohdan-meshcheriakov-factiverse
   - name: POST to /fact_check
     url: https://api.factiverse.ai/v1/fact_check
     method: POST
@@ -171,6 +179,9 @@ sites:
         "prompt": "Are you an AI?"
       }
     maxResponseTime: 100000
+    assignees:
+      - bohdan-meshcheriakov-factiverse
+      - vinaysetty
   - name: DNB Pilot (azure.factiverse.ai)
     url: https://azure.factiverse.ai/v1/docs
     assignees:
