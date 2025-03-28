@@ -195,7 +195,8 @@ sites:
       - vinaysetty
   - name: Factisearch
     check: "tcp-ping"
-    url: es.factiverse.ai:9200
+    url: es.factiverse.ai
+    port: 9200
     assignees:
       - eemrds
       - vinaysetty
