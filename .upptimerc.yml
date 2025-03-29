@@ -217,24 +217,22 @@ sites:
       - eemrds
       - vinaysetty
   - name: ElasticSearch Health
-    url: https://es.factiverse.ai/_cat/health
-    port: 9200
+    url: https://es.factiverse.ai:9200/_cat/health
     method: GET
+    __dangerous__insecure: true
     __dangerous__body_down_if_text_missing: 'factisearch-cluster green'
     headers:
       - "Authorization: Basic $ELASTICSEARCH_AUTHORIZATION"
-      - "Content-Type: application/json"
     maxResponseTime: 100000
     assignees:
       - eemrds
       - vinaysetty
   - name: ElasticSearch FactChecks Search
     url: https://es.factiverse.ai:9200/fact_checks/_search
-    port: 9200
     method: GET
+    __dangerous__insecure: true
     headers:
       - "Authorization: Basic $ELASTICSEARCH_AUTHORIZATION"
-      - "Content-Type: application/json"
     maxResponseTime: 100000
     assignees:
       - eemrds
