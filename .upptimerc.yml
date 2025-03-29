@@ -193,10 +193,47 @@ sites:
     assignees:
       - bohdan-meshcheriakov-factiverse
       - vinaysetty
-  - name: Factisearch
+  - name: Ollama (Generate)
+    url: https://ollama.factiverse.ai/api/generate
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: >-
+      {
+        "model": "mistral",
+        "prompt": "Is the sky blue? Answer yes or no.",
+        "stream": false
+      }
+    maxResponseTime: 100000
+    assignees:
+      - tobiastykvart
+      - bohdan-meshcheriakov-factiverse
+      - vinaysetty
+  - name: ElasticSearch Uptime
     check: "tcp-ping"
     url: es.factiverse.ai
     port: 9200
+    assignees:
+      - eemrds
+      - vinaysetty
+  - name: ElasticSearch Health
+    url: https://es.factiverse.ai:9200/_cat/health
+    method: GET
+    __dangerous__insecure: true
+    __dangerous__body_down_if_text_missing: 'factisearch-cluster green'
+    headers:
+      - "Authorization: Basic $ELASTICSEARCH_AUTHORIZATION"
+    maxResponseTime: 100000
+    assignees:
+      - eemrds
+      - vinaysetty
+  - name: ElasticSearch FactChecks Search
+    url: https://es.factiverse.ai:9200/fact_checks/_search
+    method: GET
+    __dangerous__insecure: true
+    headers:
+      - "Authorization: Basic $ELASTICSEARCH_AUTHORIZATION"
+    maxResponseTime: 100000
     assignees:
       - eemrds
       - vinaysetty
@@ -205,10 +242,10 @@ workflowSchedule:
   uptime: "*/10 * * * *"           # This is the most important one — run checks every 10 mins
   responseTime: "*/10 * * * *"     # API response time
   updates: "*/30 * * * *"          # Update other metadata less frequently
-  summary: "0 * * * *"             
-  graphs: "0 * * * *"              
-  staticSite: "0 0 * * *"          
-  updateTemplate: "0 0 * * 0"      
+  summary: "0 * * * *"
+  graphs: "0 * * * *"
+  staticSite: "0 0 * * *"
+  updateTemplate: "0 0 * * 0"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
