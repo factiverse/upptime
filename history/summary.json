@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-stance-detection",
     "status": "up",
-    "uptime": "75.15%",
+    "uptime": "75.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.15%",
-    "uptimeMonth": "75.15%",
-    "uptimeYear": "75.15%",
+    "uptimeWeek": "75.17%",
+    "uptimeMonth": "75.17%",
+    "uptimeYear": "75.17%",
     "time": 18649,
     "timeDay": 17918,
     "timeWeek": 18649,
@@ -260,7 +260,7 @@
     "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-03-29": 23
+      "2025-03-29": 25
     }
   },
   {
@@ -280,7 +280,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-03-29": 22
+      "2025-03-29": 25
     }
   }
 ]
