@@ -239,12 +239,12 @@ sites:
       - vinaysetty
 
 workflowSchedule:
-  uptime: "*/10 * * * *"           # This is the most important one — run checks every 10 mins
-  responseTime: "*/10 * * * *"     # API response time
-  updates: "*/30 * * * *"          # Update other metadata less frequently
-  summary: "0 * * * *"
-  graphs: "0 * * * *"
-  staticSite: "0 0 * * *"
+  uptime: "*/10 * * * *"           
+  responseTime: "*/10 * * * *"     
+  updates: "*/10 * * * *"          
+  summary: "*/10 * * * *"
+  graphs: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
   updateTemplate: "0 0 * * 0"
 
 status-website:
