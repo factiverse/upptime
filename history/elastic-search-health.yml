@@ -1,7 +1,7 @@
 url: https://es.factiverse.ai:9200/_cat/health
 status: up
 code: 200
-responseTime: 427
-lastUpdated: 2025-03-31T23:19:52.690Z
+responseTime: 451
+lastUpdated: 2025-03-31T23:40:40.784Z
 startTime: 2025-03-29T23:02:00.063Z
 generator: Upptime <https://github.com/upptime/upptime>
