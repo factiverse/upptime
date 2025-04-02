@@ -1,7 +1,7 @@
 url: https://api.factiverse.ai/v1/feedback
-status: down
-code: 502
-responseTime: 9092
-lastUpdated: 2025-04-02T21:54:50.963Z
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2025-04-02T22:16:43.315Z
 startTime: 2025-03-27T16:56:57.453Z
 generator: Upptime <https://github.com/upptime/upptime>
