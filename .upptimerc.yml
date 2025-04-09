@@ -196,6 +196,7 @@ sites:
   - name: Ollama (Generate)
     url: https://ollama.factiverse.ai/api/generate
     method: POST
+    __dangerous__body_down_if_text_missing: '"done_reason":"stop"'
     headers:
       - "Content-Type: application/json"
     body: >-
