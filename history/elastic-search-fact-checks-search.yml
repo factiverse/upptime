@@ -1,7 +1,7 @@
 url: https://es.factiverse.ai:9200/fact_checks/_search
 status: up
 code: 200
-responseTime: 515
-lastUpdated: 2025-04-17T10:07:03.747Z
+responseTime: 450
+lastUpdated: 2025-04-17T10:20:44.093Z
 startTime: 2025-03-29T23:02:03.508Z
 generator: Upptime <https://github.com/upptime/upptime>
