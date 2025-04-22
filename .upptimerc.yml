@@ -182,12 +182,6 @@ sites:
     assignees:
       - bohdan-meshcheriakov-factiverse
       - vinaysetty
-  - name: DNB Pilot (azure.factiverse.ai)
-    url: https://azure.factiverse.ai/v1/docs
-    assignees:
-      - tobiastykvart
-      - vinaysetty
-      - bohdan-meshcheriakov-factiverse
   - name: Ollama
     url: https://ollama.factiverse.ai
     assignees:
