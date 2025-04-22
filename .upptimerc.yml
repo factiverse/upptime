@@ -182,12 +182,6 @@ sites:
     assignees:
       - bohdan-meshcheriakov-factiverse
       - vinaysetty
-  - name: DNB Pilot (azure.factiverse.ai)
-    url: https://azure.factiverse.ai/v1/docs
-    assignees:
-      - tobiastykvart
-      - vinaysetty
-      - bohdan-meshcheriakov-factiverse
   - name: Ollama
     url: https://ollama.factiverse.ai
     assignees:
@@ -221,7 +215,7 @@ sites:
     url: https://es.factiverse.ai:9200/_cat/health
     method: GET
     __dangerous__insecure: true
-    __dangerous__body_down_if_text_missing: 'factisearch-cluster green'
+    __dangerous__body_down_if_text_missing: "factisearch-cluster green"
     headers:
       - "Authorization: Basic $ELASTICSEARCH_AUTHORIZATION"
     maxResponseTime: 100000
@@ -240,9 +234,9 @@ sites:
       - vinaysetty
 
 workflowSchedule:
-  uptime: "*/10 * * * *"           
-  responseTime: "*/10 * * * *"     
-  updates: "*/10 * * * *"          
+  uptime: "*/10 * * * *"
+  responseTime: "*/10 * * * *"
+  updates: "*/10 * * * *"
   summary: "*/10 * * * *"
   graphs: "*/10 * * * *"
   staticSite: "*/10 * * * *"
@@ -262,6 +256,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
