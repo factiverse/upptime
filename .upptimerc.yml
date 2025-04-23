@@ -246,13 +246,13 @@ sites:
       - tobiastykvart
 
 workflowSchedule:
-  uptime: "*/10 * * * *"
-  responseTime: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  graphs: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  updateTemplate: "0 0 * * 0"
+  uptime: "*/15 * * * *"         # Check uptime every 15 min
+  responseTime: "0 * * * *"      # Once per hour
+  updates: "0 * * * *"           # Once per hour
+  summary: "0 * * * *"           # Once per hour
+  graphs: "0 0 * * *"            # Once daily
+  staticSite: "0 * * * *"        # Once per hour
+  updateTemplate: "0 0 * * 0"    # Weekly template updates
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
