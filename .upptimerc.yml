@@ -232,6 +232,18 @@ sites:
     assignees:
       - eemrds
       - vinaysetty
+  - name: app.faciverse.ai
+    url: https://app.factiverse.ai
+    assignees:
+      - tobiastykvart
+  - name: test-editor.faciverse.ai
+    url: https://test-editor.factiverse.ai
+    assignees:
+      - tobiastykvart
+  - name: pilot.faciverse.ai
+    url: https://pilot.factiverse.ai
+    assignees:
+      - tobiastykvart
 
 workflowSchedule:
   uptime: "*/10 * * * *"
