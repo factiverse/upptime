@@ -12,7 +12,7 @@
     "uptimeYear": "98.81%",
     "time": 4020,
     "timeDay": 850,
-    "timeWeek": 917,
+    "timeWeek": 918,
     "timeMonth": 868,
     "timeYear": 4020,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.97%",
     "time": 646,
     "timeDay": 662,
-    "timeWeek": 639,
+    "timeWeek": 642,
     "timeMonth": 588,
     "timeYear": 646,
     "dailyMinutesDown": {
@@ -54,8 +54,8 @@
     "uptimeYear": "96.00%",
     "time": 5458,
     "timeDay": 1729,
-    "timeWeek": 714,
-    "timeMonth": 565,
+    "timeWeek": 716,
+    "timeMonth": 566,
     "timeYear": 5458,
     "dailyMinutesDown": {
       "2025-04-24": 18,
@@ -103,7 +103,7 @@
     "uptimeYear": "99.92%",
     "time": 597,
     "timeDay": 510,
-    "timeWeek": 533,
+    "timeWeek": 532,
     "timeMonth": 524,
     "timeYear": 597,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "99.95%",
     "time": 1217,
     "timeDay": 684,
-    "timeWeek": 464,
+    "timeWeek": 465,
     "timeMonth": 419,
     "timeYear": 1217,
     "dailyMinutesDown": {
@@ -160,11 +160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ollama.factiverse.ai.ico",
     "slug": "ollama",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 522,
     "timeDay": 489,
     "timeWeek": 495,
@@ -200,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 1186,
     "timeDay": 1245,
-    "timeWeek": 1477,
+    "timeWeek": 1465,
     "timeMonth": 1163,
     "timeYear": 1186,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "99.97%",
     "time": 448,
     "timeDay": 436,
-    "timeWeek": 449,
+    "timeWeek": 450,
     "timeMonth": 460,
     "timeYear": 448,
     "dailyMinutesDown": {
@@ -256,8 +256,8 @@
     "uptimeYear": "99.97%",
     "time": 495,
     "timeDay": 511,
-    "timeWeek": 496,
-    "timeMonth": 492,
+    "timeWeek": 497,
+    "timeMonth": 493,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2025-03-29": 20
@@ -276,7 +276,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 222,
-    "timeWeek": 256,
+    "timeWeek": 257,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -312,7 +312,7 @@
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 266,
-    "timeWeek": 283,
+    "timeWeek": 284,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {}
