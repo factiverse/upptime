@@ -12,7 +12,7 @@
     "uptimeYear": "99.28%",
     "time": 3437,
     "timeDay": 770,
-    "timeWeek": 896,
+    "timeWeek": 897,
     "timeMonth": 915,
     "timeYear": 3437,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
     "uptimeYear": "99.92%",
     "time": 1639,
     "timeDay": 264,
-    "timeWeek": 264,
+    "timeWeek": 263,
     "timeMonth": 309,
     "timeYear": 1639,
     "dailyMinutesDown": {
@@ -160,14 +160,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ollama.factiverse.ai.ico",
     "slug": "ollama",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 520,
     "timeDay": 468,
-    "timeWeek": 473,
+    "timeWeek": 472,
     "timeMonth": 474,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -200,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 1167,
     "timeDay": 1124,
-    "timeWeek": 1080,
+    "timeWeek": 1085,
     "timeMonth": 1094,
     "timeYear": 1167,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "99.98%",
     "time": 446,
     "timeDay": 437,
-    "timeWeek": 446,
+    "timeWeek": 445,
     "timeMonth": 438,
     "timeYear": 446,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.98%",
     "time": 494,
     "timeDay": 484,
-    "timeWeek": 483,
+    "timeWeek": 482,
     "timeMonth": 489,
     "timeYear": 494,
     "dailyMinutesDown": {
@@ -276,7 +276,7 @@
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 208,
-    "timeWeek": 240,
+    "timeWeek": 239,
     "timeMonth": 245,
     "timeYear": 253,
     "dailyMinutesDown": {}
