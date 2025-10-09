@@ -29,9 +29,9 @@
     "slug": "post-to-claim-detection",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 495,
     "timeDay": 1065,
@@ -39,7 +39,6 @@
     "timeMonth": 483,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2025-10-09": 4,
       "2025-04-24": 18
     }
   },
@@ -60,7 +59,7 @@
     "timeMonth": 349,
     "timeYear": 2779,
     "dailyMinutesDown": {
-      "2025-10-09": 581,
+      "2025-10-09": 605,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -309,7 +308,7 @@
     "uptimeYear": "99.98%",
     "time": 509,
     "timeDay": 553,
-    "timeWeek": 529,
+    "timeWeek": 528,
     "timeMonth": 538,
     "timeYear": 509,
     "dailyMinutesDown": {
@@ -348,7 +347,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 199,
+    "timeDay": 202,
     "timeWeek": 214,
     "timeMonth": 238,
     "timeYear": 240,
