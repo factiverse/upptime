@@ -182,28 +182,6 @@ sites:
     assignees:
       - bohdan-meshcheriakov-factiverse
       - vinaysetty
-  - name: Ollama
-    url: https://ollama.factiverse.ai
-    assignees:
-      - bohdan-meshcheriakov-factiverse
-      - vinaysetty
-  - name: Ollama (Generate)
-    url: https://ollama.factiverse.ai/api/generate
-    method: POST
-    __dangerous__body_down_if_text_missing: '"done_reason":"stop"'
-    headers:
-      - "Content-Type: application/json"
-    body: >-
-      {
-        "model": "mistral",
-        "prompt": "Is the sky blue? Answer yes or no.",
-        "stream": false
-      }
-    maxResponseTime: 100000
-    assignees:
-      - tobiastykvart
-      - bohdan-meshcheriakov-factiverse
-      - vinaysetty
   - name: ElasticSearch Uptime
     check: "tcp-ping"
     url: es.factiverse.ai
