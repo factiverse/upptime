@@ -218,10 +218,6 @@ sites:
     url: https://test-editor.factiverse.ai
     assignees:
       - tobiastykvart
-  - name: pilot.faciverse.ai
-    url: https://pilot.factiverse.ai
-    assignees:
-      - tobiastykvart
 
 workflowSchedule:
   uptime: "*/15 * * * *"         # Check uptime every 15 min
