@@ -218,6 +218,14 @@ sites:
     url: https://test-editor.factiverse.ai
     assignees:
       - tobiastykvart
+  - name: Azure util functions - DEV
+    url: https://stripesubscriptionstatus-dev-azfbdyf3bvfnhgcq.northeurope-01.azurewebsites.net/api/supported_sites
+    assignees:
+      - tobiastykvart
+  - name: Azure util functions - PROD
+    url: https://stripesubscriptionstatus.azurewebsites.net/api/supported_sites
+    assignees:
+      - tobiastykvart
 
 workflowSchedule:
   uptime: "*/15 * * * *"         # Check uptime every 15 min
