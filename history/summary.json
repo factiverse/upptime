@@ -516,19 +516,19 @@
     "url": "https://stripesubscriptionstatus.azurewebsites.net/api/supported_sites",
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 822,
-    "timeDay": 1069,
-    "timeWeek": 850,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 833,
+    "timeDay": 1137,
+    "timeWeek": 861,
+    "timeMonth": 833,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-03-05": 9
+      "2026-03-05": 14
     }
   }
 ]
