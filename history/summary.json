@@ -12,7 +12,7 @@
     "uptimeYear": "83.92%",
     "time": 1145,
     "timeDay": 1371,
-    "timeWeek": 1180,
+    "timeWeek": 1181,
     "timeMonth": 1159,
     "timeYear": 1149,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
     "uptimeYear": "95.68%",
     "time": 443,
     "timeDay": 3610,
-    "timeWeek": 1509,
+    "timeWeek": 1520,
     "timeMonth": 522,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
     "uptimeYear": "83.72%",
     "time": 516,
     "timeDay": 25076,
-    "timeWeek": 9656,
+    "timeWeek": 9742,
     "timeMonth": 2135,
     "timeYear": 516,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
     "uptimeYear": "98.24%",
     "time": 1320,
     "timeDay": 15884,
-    "timeWeek": 6461,
+    "timeWeek": 6518,
     "timeMonth": 1610,
     "timeYear": 1338,
     "dailyMinutesDown": {
@@ -255,7 +255,7 @@
     "uptimeYear": "98.60%",
     "time": 399,
     "timeDay": 601,
-    "timeWeek": 464,
+    "timeWeek": 466,
     "timeMonth": 411,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
     "uptimeYear": "99.02%",
     "time": 290,
     "timeDay": 777,
-    "timeWeek": 465,
+    "timeWeek": 466,
     "timeMonth": 323,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -312,7 +312,7 @@
     "uptimeYear": "84.63%",
     "time": 294,
     "timeDay": 2003,
-    "timeWeek": 857,
+    "timeWeek": 863,
     "timeMonth": 304,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -437,7 +437,7 @@
     "uptimeYear": "99.99%",
     "time": 513,
     "timeDay": 751,
-    "timeWeek": 577,
+    "timeWeek": 578,
     "timeMonth": 514,
     "timeYear": 513,
     "dailyMinutesDown": {
@@ -496,7 +496,7 @@
     "uptimeYear": "99.93%",
     "time": 1428,
     "timeDay": 1644,
-    "timeWeek": 1711,
+    "timeWeek": 1704,
     "timeMonth": 1537,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -509,18 +509,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
     "status": "up",
-    "uptime": "46.10%",
+    "uptime": "46.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.10%",
+    "uptimeYear": "46.06%",
     "time": 1102,
     "timeDay": 917,
-    "timeWeek": 1336,
+    "timeWeek": 1344,
     "timeMonth": 1162,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2026-05-12": 101,
+      "2026-05-12": 193,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
