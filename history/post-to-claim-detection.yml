@@ -1,7 +1,7 @@
 url: https://api.factiverse.ai/v1/claim_detection
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-20T18:14:44.552Z
+status: up
+code: 200
+responseTime: 3771
+lastUpdated: 2026-05-20T18:57:55.220Z
 startTime: 2025-03-27T16:55:24.081Z
 generator: Upptime <https://github.com/upptime/upptime>
