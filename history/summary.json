@@ -13,7 +13,7 @@
     "time": 1154,
     "timeDay": 1015,
     "timeWeek": 1027,
-    "timeMonth": 1143,
+    "timeMonth": 1144,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-07-25": 27,
@@ -99,7 +99,7 @@
     "time": 554,
     "timeDay": 9305,
     "timeWeek": 5801,
-    "timeMonth": 2784,
+    "timeMonth": 2790,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-10-21": 1264,
@@ -140,17 +140,17 @@
     "url": "https://api.factiverse.ai/v1/fact_check",
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-fact-check",
-    "status": "down",
+    "status": "up",
     "uptime": "85.37%",
-    "uptimeDay": "84.90%",
-    "uptimeWeek": "85.18%",
-    "uptimeMonth": "95.57%",
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "95.50%",
     "uptimeYear": "83.42%",
-    "time": 1208,
-    "timeDay": 45317,
-    "timeWeek": 28426,
-    "timeMonth": 15174,
-    "timeYear": 1217,
+    "time": 1212,
+    "timeDay": 44305,
+    "timeWeek": 28475,
+    "timeMonth": 15247,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2025-10-27": 590,
       "2025-10-26": 1440,
@@ -218,7 +218,7 @@
       "2026-05-19": 43,
       "2026-05-27": 1146,
       "2026-05-26": 346,
-      "2026-05-28": 2
+      "2026-05-28": 32
     }
   },
   {
@@ -235,7 +235,7 @@
     "time": 1689,
     "timeDay": 20192,
     "timeWeek": 14938,
-    "timeMonth": 8398,
+    "timeMonth": 8416,
     "timeYear": 1722,
     "dailyMinutesDown": {
       "2025-09-26": 16,
@@ -295,7 +295,7 @@
     "time": 301,
     "timeDay": 847,
     "timeWeek": 720,
-    "timeMonth": 626,
+    "timeMonth": 627,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-10-23": 17,
@@ -322,7 +322,7 @@
     "time": 339,
     "timeDay": 2141,
     "timeWeek": 2008,
-    "timeMonth": 1253,
+    "timeMonth": 1255,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-12-18": 769,
@@ -506,7 +506,7 @@
     "time": 1505,
     "timeDay": 2649,
     "timeWeek": 2171,
-    "timeMonth": 1839,
+    "timeMonth": 1843,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-03-06": 73
@@ -518,19 +518,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
     "status": "up",
-    "uptime": "37.72%",
+    "uptime": "37.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.72%",
+    "uptimeYear": "37.71%",
     "time": 1195,
     "timeDay": 2832,
     "timeWeek": 2151,
-    "timeMonth": 1598,
+    "timeMonth": 1601,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-05-28": 936,
+      "2026-05-28": 968,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
