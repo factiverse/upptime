@@ -518,7 +518,7 @@
     "timeDay": 199,
     "timeWeek": 190,
     "timeMonth": 201,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -547,11 +547,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
     "status": "up",
-    "uptime": "31.97%",
+    "uptime": "31.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.97%",
+    "uptimeYear": "31.95%",
     "time": 1344,
     "timeDay": 2871,
     "timeWeek": 2569,
@@ -559,7 +559,7 @@
     "timeYear": 1344,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-06-14": 116,
+      "2026-06-14": 196,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
