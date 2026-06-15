@@ -94,7 +94,7 @@
     "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.75%",
-    "uptimeMonth": "83.60%",
+    "uptimeMonth": "83.63%",
     "uptimeYear": "94.29%",
     "time": 592,
     "timeDay": 983,
@@ -443,15 +443,15 @@
     "url": "https://es.factiverse.ai:9200/_cat/health",
     "icon": "https://icons.duckduckgo.com/ip3/es.factiverse.ai.ico",
     "slug": "elastic-search-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 452,
-    "timeDay": 366,
-    "timeWeek": 382,
+    "timeDay": 360,
+    "timeWeek": 381,
     "timeMonth": 399,
     "timeYear": 452,
     "dailyMinutesDown": {
@@ -459,7 +459,8 @@
       "2025-09-20": 18,
       "2025-09-21": 51,
       "2025-09-22": 18,
-      "2025-09-23": 36
+      "2025-09-23": 36,
+      "2026-06-15": 5
     }
   },
   {
@@ -559,7 +560,7 @@
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-06-15": 1271,
+      "2026-06-15": 1280,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
