@@ -150,10 +150,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-fact-check",
     "status": "up",
-    "uptime": "85.12%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "82.32%",
+    "uptime": "85.13%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "82.34%",
     "uptimeYear": "82.24%",
     "time": 1628,
     "timeDay": 17392,
@@ -235,7 +235,7 @@
       "2026-06-03": 478,
       "2026-06-10": 1043,
       "2026-06-09": 172,
-      "2026-06-19": 42
+      "2026-06-19": 32
     }
   },
   {
@@ -551,11 +551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
     "status": "up",
-    "uptime": "30.43%",
+    "uptime": "30.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.43%",
+    "uptimeYear": "30.42%",
     "time": 1391,
     "timeDay": 2794,
     "timeWeek": 2787,
@@ -563,7 +563,7 @@
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-06-19": 763,
+      "2026-06-19": 797,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
