@@ -14,7 +14,7 @@
     "timeDay": 1594,
     "timeWeek": 1346,
     "timeMonth": 1600,
-    "timeYear": 1243,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-10-09": 17,
       "2025-10-22": 16,
@@ -98,7 +98,7 @@
     "time": 808,
     "timeDay": 3474,
     "timeWeek": 3317,
-    "timeMonth": 3137,
+    "timeMonth": 3140,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-10-21": 1264,
@@ -157,8 +157,8 @@
     "time": 3088,
     "timeDay": 18724,
     "timeWeek": 19094,
-    "timeMonth": 19786,
-    "timeYear": 3139,
+    "timeMonth": 19775,
+    "timeYear": 3138,
     "dailyMinutesDown": {
       "2025-10-27": 590,
       "2025-10-26": 1440,
@@ -251,7 +251,7 @@
     "time": 2747,
     "timeDay": 6423,
     "timeWeek": 8483,
-    "timeMonth": 8579,
+    "timeMonth": 8586,
     "timeYear": 2788,
     "dailyMinutesDown": {
       "2025-09-26": 16,
@@ -319,7 +319,7 @@
     "time": 369,
     "timeDay": 944,
     "timeWeek": 729,
-    "timeMonth": 727,
+    "timeMonth": 724,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2025-10-23": 17,
@@ -346,7 +346,7 @@
     "time": 490,
     "timeDay": 1805,
     "timeWeek": 1896,
-    "timeMonth": 1889,
+    "timeMonth": 1885,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2025-12-18": 769,
@@ -477,7 +477,7 @@
     "time": 553,
     "timeDay": 807,
     "timeWeek": 842,
-    "timeMonth": 815,
+    "timeMonth": 816,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-09-21": 18
@@ -547,11 +547,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stripesubscriptionstatus.azurewebsites.net.ico",
     "slug": "azure-util-functions-prod",
     "status": "up",
-    "uptime": "22.51%",
+    "uptime": "22.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.51%",
+    "uptimeYear": "22.50%",
     "time": 1700,
     "timeDay": 2838,
     "timeWeek": 2750,
@@ -559,7 +559,7 @@
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-07-29": 484,
+      "2026-07-29": 545,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
