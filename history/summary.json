@@ -149,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-fact-check",
     "status": "up",
-    "uptime": "86.37%",
+    "uptime": "86.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -252,7 +252,7 @@
     "timeDay": 6094,
     "timeWeek": 6038,
     "timeMonth": 8585,
-    "timeYear": 2806,
+    "timeYear": 2807,
     "dailyMinutesDown": {
       "2025-09-26": 16,
       "2025-10-23": 19,
@@ -559,7 +559,7 @@
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-07-30": 945,
+      "2026-07-30": 1001,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
