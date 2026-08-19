@@ -98,7 +98,7 @@
     "time": 952,
     "timeDay": 3731,
     "timeWeek": 3464,
-    "timeMonth": 3401,
+    "timeMonth": 3402,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2025-10-21": 1264,
@@ -157,7 +157,7 @@
     "time": 4096,
     "timeDay": 27342,
     "timeWeek": 24444,
-    "timeMonth": 22651,
+    "timeMonth": 22601,
     "timeYear": 4184,
     "dailyMinutesDown": {
       "2025-10-27": 590,
@@ -251,8 +251,8 @@
     "time": 3323,
     "timeDay": 21776,
     "timeWeek": 20123,
-    "timeMonth": 13031,
-    "timeYear": 3394,
+    "timeMonth": 13050,
+    "timeYear": 3395,
     "dailyMinutesDown": {
       "2025-09-26": 16,
       "2025-10-23": 19,
@@ -319,7 +319,7 @@
     "time": 387,
     "timeDay": 508,
     "timeWeek": 659,
-    "timeMonth": 681,
+    "timeMonth": 682,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-10-23": 17,
@@ -346,7 +346,7 @@
     "time": 565,
     "timeDay": 1990,
     "timeWeek": 1843,
-    "timeMonth": 1897,
+    "timeMonth": 1891,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-12-18": 769,
@@ -445,11 +445,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/es.factiverse.ai.ico",
     "slug": "elastic-search-health",
     "status": "down",
-    "uptime": "97.20%",
+    "uptime": "97.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.77%",
-    "uptimeYear": "96.11%",
+    "uptimeMonth": "53.64%",
+    "uptimeYear": "96.10%",
     "time": 447,
     "timeDay": 409,
     "timeWeek": 428,
@@ -461,7 +461,7 @@
       "2025-09-22": 18,
       "2025-09-23": 36,
       "2026-06-15": 45,
-      "2026-08-19": 915,
+      "2026-08-19": 972,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -550,7 +550,7 @@
     "time": 2064,
     "timeDay": 3090,
     "timeWeek": 3144,
-    "timeMonth": 3024,
+    "timeMonth": 3025,
     "timeYear": 2064,
     "dailyMinutesDown": {
       "2026-03-06": 73
@@ -574,7 +574,7 @@
     "timeYear": 1826,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-08-19": 918,
+      "2026-08-19": 975,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
