@@ -157,7 +157,7 @@
     "time": 4184,
     "timeDay": 19442,
     "timeWeek": 22334,
-    "timeMonth": 22063,
+    "timeMonth": 22077,
     "timeYear": 4279,
     "dailyMinutesDown": {
       "2025-10-27": 590,
@@ -251,8 +251,8 @@
     "time": 3351,
     "timeDay": 5732,
     "timeWeek": 16464,
-    "timeMonth": 11705,
-    "timeYear": 3427,
+    "timeMonth": 11642,
+    "timeYear": 3428,
     "dailyMinutesDown": {
       "2025-09-26": 16,
       "2025-10-23": 19,
@@ -338,15 +338,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-generate",
     "status": "down",
-    "uptime": "88.11%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "83.50%",
+    "uptime": "88.10%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "83.48%",
     "time": 571,
     "timeDay": 1748,
     "timeWeek": 1791,
-    "timeMonth": 1892,
+    "timeMonth": 1893,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-12-18": 769,
@@ -417,7 +417,7 @@
       "2026-06-03": 479,
       "2026-06-10": 1043,
       "2026-06-09": 153,
-      "2026-08-21": 46
+      "2026-08-21": 104
     }
   },
   {
@@ -446,11 +446,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/es.factiverse.ai.ico",
     "slug": "elastic-search-health",
     "status": "down",
-    "uptime": "96.83%",
+    "uptime": "96.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.33%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "47.20%",
+    "uptimeYear": "95.57%",
     "time": 447,
     "timeDay": 424,
     "timeWeek": 434,
@@ -462,7 +462,7 @@
       "2025-09-22": 18,
       "2025-09-23": 36,
       "2026-06-15": 45,
-      "2026-08-21": 857,
+      "2026-08-21": 915,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -553,7 +553,7 @@
     "time": 2075,
     "timeDay": 3035,
     "timeWeek": 3158,
-    "timeMonth": 3037,
+    "timeMonth": 3038,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2026-03-06": 73
@@ -577,7 +577,7 @@
     "timeYear": 1837,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-08-21": 860,
+      "2026-08-21": 917,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
