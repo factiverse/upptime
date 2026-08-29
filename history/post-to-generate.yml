@@ -1,7 +1,7 @@
 url: https://api.factiverse.ai/v1/generate
 status: down
-code: 401
-responseTime: 352
-lastUpdated: 2026-08-29T22:16:45.578Z
+code: 422
+responseTime: 537
+lastUpdated: 2026-08-29T23:15:21.168Z
 startTime: 2025-03-27T18:00:26.330Z
 generator: Upptime <https://github.com/upptime/upptime>
