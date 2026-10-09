@@ -185,10 +185,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-fact-check",
     "status": "down",
-    "uptime": "84.70%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "35.75%",
-    "uptimeMonth": "39.24%",
+    "uptime": "84.69%",
+    "uptimeDay": "68.03%",
+    "uptimeWeek": "35.67%",
+    "uptimeMonth": "39.22%",
     "uptimeYear": "87.44%",
     "time": 6599,
     "timeDay": 45933,
@@ -261,7 +261,7 @@
       "2026-10-06": 803,
       "2026-10-07": 767,
       "2026-10-08": 780,
-      "2026-10-09": 68
+      "2026-10-09": 76
     }
   },
   {
@@ -404,7 +404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.factiverse.ai.ico",
     "slug": "post-to-generate",
     "status": "down",
-    "uptime": "80.45%",
+    "uptime": "80.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -483,7 +483,7 @@
       "2026-06-03": 479,
       "2026-06-10": 1043,
       "2026-06-09": 153,
-      "2026-10-09": 488,
+      "2026-10-09": 497,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -560,8 +560,8 @@
     "slug": "elastic-search-health",
     "status": "down",
     "uptime": "90.74%",
-    "uptimeDay": "37.06%",
-    "uptimeWeek": "91.01%",
+    "uptimeDay": "36.41%",
+    "uptimeWeek": "90.92%",
     "uptimeMonth": "44.74%",
     "uptimeYear": "85.86%",
     "time": 445,
@@ -623,7 +623,7 @@
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 616,
-      "2026-10-09": 489,
+      "2026-10-09": 498,
       "2026-10-08": 417
     }
   },
@@ -721,7 +721,7 @@
     "timeYear": 2097,
     "dailyMinutesDown": {
       "2026-03-06": 34,
-      "2026-10-09": 491,
+      "2026-10-09": 501,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
